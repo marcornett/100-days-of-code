@@ -30,4 +30,22 @@
 
 **Thoughts:**
 
-**Link to work:** [Browser Bot](https://github.com/marcornett/countdown-timer)
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 5: November 13, 2020
+
+**Today's Progress**: More research on solving a calculation difference with two sets of dates. Currently, found a better solution to supply the new date function with the user input date to compare to the moment date. Need to do more research with moment.
+
+**Thoughts:** So I thought this would be little easier and I may just be over thinking it but it is a fun challenge so far. Moment seems to be an interesting tool filled with optional date modifications.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 6: November 14, 2020
+
+**Today's Progress**: Refactoring to handle some confusion. Handle date change sets user input date to state. Use effect grabs current date and calculates the difference between user input date and current. Need to format date to look more presentable. Using npm package [moment-duration-format](https://www.npmjs.com/package/moment-duration-format) to get a properly formatted date. Got the two dates differences into a string.
+
+**Thoughts:** 
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+Refactoring to handle some confusion. Handle date change sets user input date to state. Use effect grabs current date and calculates the difference between user input date and current. Need to format date to look more presentable. Using npm package moment-duration-format to get a properly formatted date. Got the two dates differences into a string.
