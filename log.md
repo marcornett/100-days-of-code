@@ -48,4 +48,10 @@
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
 
-Refactoring to handle some confusion. Handle date change sets user input date to state. Use effect grabs current date and calculates the difference between user input date and current. Need to format date to look more presentable. Using npm package moment-duration-format to get a properly formatted date. Got the two dates differences into a string.
+### Day 7: November 15, 2020
+
+**Today's Progress**: Adjusted countdown string to create an array of each unit of time to properly separate into state. Rendering timer component that has separate measurements of time. Beginning user input for time of day to get an even more accurate countdown to an event.
+
+**Thoughts:** Glad things are moving sooner. At this stage, I will button up functionality and move on to CSS. Will draft layout ideas or search online for UI components to render a countdown timer.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
