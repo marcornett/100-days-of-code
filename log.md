@@ -55,3 +55,11 @@
 **Thoughts:** Glad things are moving sooner. At this stage, I will button up functionality and move on to CSS. Will draft layout ideas or search online for UI components to render a countdown timer.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 8: November 16, 2020
+
+**Today's Progress**: Currently working with time input to apply to countdown date. It works on occassion so I need to figure out how to keep it consistent.
+
+**Thoughts:** Always frustrating when you get something working and QA testing eventually shows it doesn't work as well as it should. Will refactor.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
