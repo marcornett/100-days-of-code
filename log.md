@@ -60,6 +60,6 @@
 
 **Today's Progress**: Currently working with time input to apply to countdown date. It works on occassion so I need to figure out how to keep it consistent.
 
-**Thoughts:** Always frustrating when you get something working and QA testing eventually shows it doesn't work as well as it should. Will refactor.
+**Thoughts:** Always frustrating when you get something working and QA testing eventually shows it doesn't work as well as it should. Will refactor. Just realized there is a date time input tag so will use that to solve issue.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
