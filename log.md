@@ -63,3 +63,11 @@
 **Thoughts:** Always frustrating when you get something working and QA testing eventually shows it doesn't work as well as it should. Will refactor. Just realized there is a date time input tag so will use that to solve issue.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 9: November 17, 2020
+
+**Today's Progress**: Changed input date to input date time. Looked at moment documentation to format date to match new input. I have an array that contains the amount of days, hours, minutes and seconds left to display. Currently, working on filling an array with 0s based on the date calculation to account for any missing day, hour, or minute values. 
+
+**Thoughts:** I may have gone through this in a round about way but ultimately see the finish line.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
