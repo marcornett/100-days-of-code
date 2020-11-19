@@ -71,3 +71,11 @@
 **Thoughts:** I may have gone through this in a round about way but ultimately see the finish line.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 10: November 18, 2020
+
+**Today's Progress**: Looping issue while inside of a useEffect. Will address this issue with creating an object to hold key, value pair of units of time.
+
+**Thoughts:** Use Effect sometimes still throws me off if I try to do something that I assumed to be simple but recognize that I must be more creative.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
