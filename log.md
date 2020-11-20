@@ -79,3 +79,11 @@
 **Thoughts:** Use Effect sometimes still throws me off if I try to do something that I assumed to be simple but recognize that I must be more creative.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 11: November 19, 2020
+
+**Today's Progress**: Completed functionality of countdown timer. Moving on to CSS.
+
+**Thoughts:** Super excited this worked out! I do need to consider how I would handle time if requesting something before current time, I may address this at some point but need to put energy into a newer project.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
