@@ -87,3 +87,17 @@
 **Thoughts:** Super excited this worked out! I do need to consider how I would handle time if requesting something before current time, I may address this at some point but need to put energy into a newer project.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 12: November 20, 2020
+
+**Today's Progress**: Spent time on school studies covering Django Custom User model and extending fields.
+
+**Thoughts:** A lot of research here. Ultimately couldn't figure out how to get the new field to show up in the Admin panel. Will do more research.
+
+### Day 13: November 21, 2020
+
+**Today's Progress**: Will work on CSS today for Countdown Timer App.
+
+**Thoughts:** Shoudn't be too much. Might search for an UI library to make things simple and concise. 
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
