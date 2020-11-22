@@ -44,7 +44,7 @@
 
 **Today's Progress**: Refactoring to handle some confusion. Handle date change sets user input date to state. Use effect grabs current date and calculates the difference between user input date and current. Need to format date to look more presentable. Using npm package [moment-duration-format](https://www.npmjs.com/package/moment-duration-format) to get a properly formatted date. Got the two dates differences into a string.
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
 
@@ -66,7 +66,7 @@
 
 ### Day 9: November 17, 2020
 
-**Today's Progress**: Changed input date to input date time. Looked at moment documentation to format date to match new input. I have an array that contains the amount of days, hours, minutes and seconds left to display. Currently, working on filling an array with 0s based on the date calculation to account for any missing day, hour, or minute values. 
+**Today's Progress**: Changed input date to input date time. Looked at moment documentation to format date to match new input. I have an array that contains the amount of days, hours, minutes and seconds left to display. Currently, working on filling an array with 0s based on the date calculation to account for any missing day, hour, or minute values.
 
 **Thoughts:** I may have gone through this in a round about way but ultimately see the finish line.
 
@@ -98,6 +98,14 @@
 
 **Today's Progress**: Will work on CSS today for Countdown Timer App.
 
-**Thoughts:** Shoudn't be too much. Might search for an UI library to make things simple and concise. 
+**Thoughts:** Shoudn't be too much. Might search for an UI library to make things simple and concise.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 14: November 22, 2020
+
+**Today's Progress**: A day of CSS. Some changes to how the date was formatted to make the CSS process easier.
+
+**Thoughts:** Simple enough work here for me. Just need to do it.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
