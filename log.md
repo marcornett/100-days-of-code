@@ -109,3 +109,11 @@
 **Thoughts:** Simple enough work here for me. Just need to do it.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 15: November 23, 2020
+
+**Today's Progress**: Downloaded npm package react-contenteditable to allow for editable field for the event header. CSS styling added.
+
+**Thoughts:** Trying to give more character to the page.
+
+**Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
