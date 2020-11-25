@@ -117,3 +117,9 @@
 **Thoughts:** Trying to give more character to the page.
 
 **Link to work:** [Countdown Timer](https://github.com/marcornett/countdown-timer)
+
+### Day 16: November 24, 2020
+
+**Today's Progress**: Working on bot tracker in Django. Mostly have the user info setup. Querying for tickets assigned to user. Need to finish ticket status updates.
+
+**Thoughts:** Instructions were a little confusing and may have been mislead by the demo ultimately.
