@@ -123,3 +123,21 @@
 **Today's Progress**: Working on bot tracker in Django. Mostly have the user info setup. Querying for tickets assigned to user. Need to finish ticket status updates.
 
 **Thoughts:** Instructions were a little confusing and may have been mislead by the demo ultimately.
+
+### Day 17: November 25, 2020
+
+**Today's Progress**: Finished bug tracker. Will work on CSS
+
+**Thoughts:** Initially, this was a little rough but overall it turned out well. Manage the state of a ticket was tricky but with time it started to make more sense.
+
+### Day 18: November 26, 2020
+
+**Today's Progress**: Today, learning about Ruby on Rails. Hoping to learn more about bots.
+
+**Thoughts:** Seems closer to Python than anything I know so this should be pretty approachable. 
+
+### Day 19: November 27, 2020
+
+**Today's Progress**: Continuing with Ruby on Rails today. Learning about string methods and string interpolation. 
+
+**Thoughts:** So far so good. Will try to dive in deap quicker. 
