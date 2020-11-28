@@ -140,4 +140,4 @@
 
 **Today's Progress**: Continuing with Ruby on Rails today. Learning about string methods and string interpolation. 
 
-**Thoughts:** So far so good. Will try to dive in deap quicker. 
+**Thoughts:** So far so good. Will try to dive in deep quicker. 
