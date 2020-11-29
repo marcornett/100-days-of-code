@@ -141,3 +141,9 @@
 **Today's Progress**: Continuing with Ruby on Rails today. Learning about string methods and string interpolation. 
 
 **Thoughts:** So far so good. Will try to dive in deep quicker. 
+
+### Day 20: November 28, 2020
+
+**Today's Progress**: Working on an Amazon clone. This project is from a tutorial that I've been watching. So far, currently on the checkout page and will get into credit card payments. 
+
+**Thoughts:** Working late tonight. Mostly just tired from coaching with students. Glad I remembered this project to have something to diversify my learning.
