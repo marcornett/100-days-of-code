@@ -134,16 +134,22 @@
 
 **Today's Progress**: Today, learning about Ruby on Rails. Hoping to learn more about bots.
 
-**Thoughts:** Seems closer to Python than anything I know so this should be pretty approachable. 
+**Thoughts:** Seems closer to Python than anything I know so this should be pretty approachable.
 
 ### Day 19: November 27, 2020
 
-**Today's Progress**: Continuing with Ruby on Rails today. Learning about string methods and string interpolation. 
+**Today's Progress**: Continuing with Ruby on Rails today. Learning about string methods and string interpolation.
 
-**Thoughts:** So far so good. Will try to dive in deep quicker. 
+**Thoughts:** So far so good. Will try to dive in deep quicker.
 
 ### Day 20: November 28, 2020
 
-**Today's Progress**: Working on an Amazon clone. This project is from a tutorial that I've been watching. So far, currently on the checkout page and will get into credit card payments. 
+**Today's Progress**: Working on an Amazon clone. This project is from a tutorial that I've been watching. So far, currently on the checkout page and will get into credit card payments.
 
 **Thoughts:** Working late tonight. Mostly just tired from coaching with students. Glad I remembered this project to have something to diversify my learning.
+
+### Day 21: November 29, 2020
+
+**Today's Progress**: Continued with the Amazon clone. Working the payment page by adding the swipe.js npm package to collect credit card information and validate it. Also includes a Firebase backend API using Express.
+
+**Thoughts:** Has a lot of parts to this but the only issue is understanding swipe.js. Need to figure out how to handle authentication on either the backend or frontend.
