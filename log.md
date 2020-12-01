@@ -153,3 +153,9 @@
 **Today's Progress**: Continued with the Amazon clone. Working the payment page by adding the swipe.js npm package to collect credit card information and validate it. Also includes a Firebase backend API using Express.
 
 **Thoughts:** Has a lot of parts to this but the only issue is understanding swipe.js. Need to figure out how to handle authentication on either the backend or frontend.
+
+### Day 22: November 30, 2020
+
+**Today's Progress**: Started a project today. Twitter clone in Django. Working on setting up models for user, tweets, and notifications. 
+
+**Thoughts:** Need to think about a user can follow another and should be mostly good after that.
