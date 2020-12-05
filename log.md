@@ -160,26 +160,33 @@
 
 **Thoughts:** Need to think about a user can follow another and should be mostly good after that.
 
+**Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
+
 ### Day 23: December 1, 2020
 
 **Today's Progress**: Twitter clone. Worked on user follow functionality. Added a field to each user that relates to the user object itself and can add another user to a list of users. 
 
 **Thoughts:** Still confused even though it is working and will go back to research what I did in my user model.
 
+**Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
 ### Day 24: December 2, 2020
 
 **Today's Progress**: Twitter clone. Rendering out all tweets as well as tweets the user is following on the homepage. Also, getting notifications to disappear after being viewed.
 
 **Thoughts:** I am using HTML files that are reusable so I'm passing around titles to appropriately have everything labeled.
 
+**Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
 ### Day 25: December 3, 2020
 
 **Today's Progress**: Working on mostly template layout in HTML and CSS. Using the Nes.CSS framework for the look and feel of a video game.
 
 **Thoughts:** Glad I got a lot done in a short time to have the application looking good so far.
 
+**Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
 ### Day 26: December 4, 2020
 
-**Today's Progress**: Finishing touches on the functionality. Want anonomous users, even if they don't have an account, be able to view tweets and user profiles but locking them from
+**Today's Progress**: Finishing touches on the functionality. Want anonymous users, even if they don't have an account, be able to view tweets and user profiles but locking them from certain functionality. Also, have a list of recent users being displayed. Also, heavy amount of CSS was completed. 
 
-**Thoughts:** Glad I got a lot done in a short time to have the application looking good so far.
+**Thoughts:** It's look and really proud of this! Some CSS weirdness from the Nes.CSS framework but I have it all working as intended. It also looks really good.
+
+**Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
