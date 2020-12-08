@@ -190,3 +190,26 @@
 **Thoughts:** It's look and really proud of this! Some CSS weirdness from the Nes.CSS framework but I have it all working as intended. It also looks really good.
 
 **Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
+
+### Day 26: December 5, 2020
+
+**Today's Progress**: Worked on the Amazon clone. Finished up the Stripe.js feature to validate a card payment and it is to the account on stripe.com.
+
+**Thoughts:** Had issues getting the post request authenticated on the backend due to an issue with my setup of the environment variable but figured it out. Was a little concerning.
+
+**Link to work:** [Amazon Clone](https://github.com/marcornett/amazon-clone)
+
+### Day 27: December 6, 2020
+
+**Today's Progress**: Worked on few issues with Stripe.js. Had to solve non integer issue. Not sure if it is completely solved. I believe I need to round the integer so it doesn't get passed in as a floating point number.
+
+
+**Thoughts:** The issue seemed to not be straight forward at the beginning but started to make more sense as I worked on it.
+
+**Link to work:** [Amazon Clone](https://github.com/marcornett/amazon-clone)
+
+### Day 28: December 7, 2020
+
+**Today's Progress**: Learned about converting function-based views to class-based views.
+
+**Thoughts:** Not too confusing but Django offers other class-based views with extra functionality that I will look into.
