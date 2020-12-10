@@ -213,3 +213,15 @@
 **Today's Progress**: Learned about converting function-based views to class-based views.
 
 **Thoughts:** Not too confusing but Django offers other class-based views with extra functionality that I will look into.
+
+### Day 29: December 8, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** Not too confusing but Django offers other class-based views with extra functionality that I will look into.
+
+### Day 30: December 9, 2020
+
+**Today's Progress**: Picking up studies with Ruby. Also, studied PostgreSQL. Making databases and tables, modifying information. 
+
+**Thoughts:** Ruby is still feeling similar to Python. So far the only difference is a little in the syntax of if else statements. Also this use of an unless operator.
