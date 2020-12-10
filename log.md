@@ -216,9 +216,9 @@
 
 ### Day 29: December 8, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Just covered more in Django today. Studying through past concepts to solidify learning. 
 
-**Thoughts:** Not too confusing but Django offers other class-based views with extra functionality that I will look into.
+**Thoughts:** Django has some weirdness to figure out when it comes to making a model. It can be sort of confusing on how a table is being made in the database when it comes to relating one model to another via foreign keys or one to many relationships.
 
 ### Day 30: December 9, 2020
 
