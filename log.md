@@ -225,3 +225,10 @@
 **Today's Progress**: Picking up studies with Ruby. Also, studied PostgreSQL. Making databases and tables, modifying information. 
 
 **Thoughts:** Ruby is still feeling similar to Python. So far the only difference is a little in the syntax of if else statements. Also this use of an unless operator.
+
+### Day 31: December 10, 2020
+
+**Today's Progress**: Working with Haslib in Python to generate and validate keys. 
+
+**Thoughts:** Seems a little familiar to NPM package I used before so I understand the concept. Just need to figure out I will handle it in Python.
+
