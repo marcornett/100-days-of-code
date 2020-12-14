@@ -156,7 +156,7 @@
 
 ### Day 22: November 30, 2020
 
-**Today's Progress**: Started a project today. Twitter clone in Django. Working on setting up models for user, tweets, and notifications. 
+**Today's Progress**: Started a project today. Twitter clone in Django. Working on setting up models for user, tweets, and notifications.
 
 **Thoughts:** Need to think about a user can follow another and should be mostly good after that.
 
@@ -164,11 +164,12 @@
 
 ### Day 23: December 1, 2020
 
-**Today's Progress**: Twitter clone. Worked on user follow functionality. Added a field to each user that relates to the user object itself and can add another user to a list of users. 
+**Today's Progress**: Twitter clone. Worked on user follow functionality. Added a field to each user that relates to the user object itself and can add another user to a list of users.
 
 **Thoughts:** Still confused even though it is working and will go back to research what I did in my user model.
 
 **Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
+
 ### Day 24: December 2, 2020
 
 **Today's Progress**: Twitter clone. Rendering out all tweets as well as tweets the user is following on the homepage. Also, getting notifications to disappear after being viewed.
@@ -176,6 +177,7 @@
 **Thoughts:** I am using HTML files that are reusable so I'm passing around titles to appropriately have everything labeled.
 
 **Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
+
 ### Day 25: December 3, 2020
 
 **Today's Progress**: Working on mostly template layout in HTML and CSS. Using the Nes.CSS framework for the look and feel of a video game.
@@ -183,9 +185,10 @@
 **Thoughts:** Glad I got a lot done in a short time to have the application looking good so far.
 
 **Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
+
 ### Day 26: December 4, 2020
 
-**Today's Progress**: Finishing touches on the functionality. Want anonymous users, even if they don't have an account, be able to view tweets and user profiles but locking them from certain functionality. Also, have a list of recent users being displayed. Also, heavy amount of CSS was completed. 
+**Today's Progress**: Finishing touches on the functionality. Want anonymous users, even if they don't have an account, be able to view tweets and user profiles but locking them from certain functionality. Also, have a list of recent users being displayed. Also, heavy amount of CSS was completed.
 
 **Thoughts:** It's look and really proud of this! Some CSS weirdness from the Nes.CSS framework but I have it all working as intended. It also looks really good.
 
@@ -203,7 +206,6 @@
 
 **Today's Progress**: Worked on few issues with Stripe.js. Had to solve non integer issue. Not sure if it is completely solved. I believe I need to round the integer so it doesn't get passed in as a floating point number.
 
-
 **Thoughts:** The issue seemed to not be straight forward at the beginning but started to make more sense as I worked on it.
 
 **Link to work:** [Amazon Clone](https://github.com/marcornett/amazon-clone)
@@ -216,19 +218,36 @@
 
 ### Day 29: December 8, 2020
 
-**Today's Progress**: Just covered more in Django today. Studying through past concepts to solidify learning. 
+**Today's Progress**: Just covered more in Django today. Studying through past concepts to solidify learning.
 
 **Thoughts:** Django has some weirdness to figure out when it comes to making a model. It can be sort of confusing on how a table is being made in the database when it comes to relating one model to another via foreign keys or one to many relationships.
 
 ### Day 30: December 9, 2020
 
-**Today's Progress**: Picking up studies with Ruby. Also, studied PostgreSQL. Making databases and tables, modifying information. 
+**Today's Progress**: Picking up studies with Ruby. Also, studied PostgreSQL. Making databases and tables, modifying information.
 
 **Thoughts:** Ruby is still feeling similar to Python. So far the only difference is a little in the syntax of if else statements. Also this use of an unless operator.
 
 ### Day 31: December 10, 2020
 
-**Today's Progress**: Working with Haslib in Python to generate and validate keys. 
+**Today's Progress**: Working with Haslib in Python to generate and validate keys.
 
 **Thoughts:** Seems a little familiar to NPM package I used before so I understand the concept. Just need to figure out I will handle it in Python.
 
+### Day 32: December 11, 2020
+
+**Today's Progress**: More Haslib research.
+
+**Thoughts:** Not finding the right info here. Sort of using the same module but not solving the issue with the function for verification. It can't receive any parameters.
+
+### Day 33: December 12, 2020
+
+**Today's Progress**: Covered more in Python with Haslib.
+
+**Thoughts:** Might have to go different way with validation.
+
+### Day 33: December 12, 2020
+
+**Today's Progress**: Today I'm learning more about Ruby. Soon I'll get into loops and iterators.
+
+**Thoughts:** Learning a little about checking for info in strings and replacing characters.
