@@ -246,8 +246,14 @@
 
 **Thoughts:** Might have to go different way with validation.
 
-### Day 33: December 12, 2020
+### Day 34: December 13, 2020
 
 **Today's Progress**: Today I'm learning more about Ruby. Soon I'll get into loops and iterators.
 
 **Thoughts:** Learning a little about checking for info in strings and replacing characters.
+
+### Day 35: December 14, 2020
+
+**Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
+
+**Thoughts:** Working with loops is slightly similar to Python.
