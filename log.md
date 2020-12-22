@@ -257,3 +257,9 @@
 **Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
 
 **Thoughts:** Working with loops is slightly similar to Python.
+
+### Day 35: December 14, 2020
+
+**Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
+
+**Thoughts:** Working with loops is slightly similar to Python.
