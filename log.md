@@ -252,14 +252,20 @@
 
 **Thoughts:** Learning a little about checking for info in strings and replacing characters.
 
-### Day 35: December 14, 2020
+### Day 35: December 20, 2020
 
 **Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
 
 **Thoughts:** Working with loops is slightly similar to Python.
 
-### Day 35: December 14, 2020
+### Day 36: December 21, 2020
 
-**Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
+**Today's Progress**: Working on protecting passwords in Ruby. At least a naive implementation without using hashing. 
 
-**Thoughts:** Working with loops is slightly similar to Python.
+**Thoughts:** Nothing too concerning here but the syntax is starting to get difficult to remember. 
+
+### Day 38: December 23, 2020
+
+**Today's Progress**: Today, worked on a lesson in Ruby to redact statements
+
+**Thoughts:** Nice to see things coming together.
