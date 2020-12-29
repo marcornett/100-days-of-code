@@ -269,3 +269,9 @@
 **Today's Progress**: Today, worked on a lesson in Ruby to redact statements
 
 **Thoughts:** Nice to see things coming together.
+
+### Day 39: December 28, 2020
+
+**Today's Progress**: Lessons in Ruby, covering arrays and hashes.
+
+**Thoughts:** Similar to JavaScript and Python here.
