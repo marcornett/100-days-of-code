@@ -275,3 +275,13 @@
 **Today's Progress**: Lessons in Ruby, covering arrays and hashes.
 
 **Thoughts:** Similar to JavaScript and Python here.
+
+### Day 40: January 30, 2021
+
+**Today's Progress**: For the month of January, I spent time working on my Capstone project for my coding school. I need to step away from the coding challenge to have a better work life balance.
+
+Today, I am taking on the Go programming language. I've studied quite a bit and have worked with [Exercism](https://exercism.io/) to learn the language. 
+
+**Thoughts:** Somewhat different to what I've seen but am thankful for the variety of info and documentation online. I feel like it will be a challenge.
+
+**Link to work:** [Hello World](https://github.com/marcornett/hello-go-world)
