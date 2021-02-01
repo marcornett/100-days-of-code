@@ -194,7 +194,7 @@
 
 **Link to work:** [Twitter Clone](https://github.com/kenzie-se-q4/twitterclone-marcornett)
 
-### Day 26: December 5, 2020
+### Day 27: December 5, 2020
 
 **Today's Progress**: Worked on the Amazon clone. Finished up the Stripe.js feature to validate a card payment and it is to the account on stripe.com.
 
@@ -202,7 +202,7 @@
 
 **Link to work:** [Amazon Clone](https://github.com/marcornett/amazon-clone)
 
-### Day 27: December 6, 2020
+### Day 28: December 6, 2020
 
 **Today's Progress**: Worked on few issues with Stripe.js. Had to solve non integer issue. Not sure if it is completely solved. I believe I need to round the integer so it doesn't get passed in as a floating point number.
 
@@ -210,55 +210,55 @@
 
 **Link to work:** [Amazon Clone](https://github.com/marcornett/amazon-clone)
 
-### Day 28: December 7, 2020
+### Day 29: December 7, 2020
 
 **Today's Progress**: Learned about converting function-based views to class-based views.
 
 **Thoughts:** Not too confusing but Django offers other class-based views with extra functionality that I will look into.
 
-### Day 29: December 8, 2020
+### Day 30: December 8, 2020
 
 **Today's Progress**: Just covered more in Django today. Studying through past concepts to solidify learning.
 
 **Thoughts:** Django has some weirdness to figure out when it comes to making a model. It can be sort of confusing on how a table is being made in the database when it comes to relating one model to another via foreign keys or one to many relationships.
 
-### Day 30: December 9, 2020
+### Day 31: December 9, 2020
 
 **Today's Progress**: Picking up studies with Ruby. Also, studied PostgreSQL. Making databases and tables, modifying information.
 
 **Thoughts:** Ruby is still feeling similar to Python. So far the only difference is a little in the syntax of if else statements. Also this use of an unless operator.
 
-### Day 31: December 10, 2020
+### Day 32: December 10, 2020
 
 **Today's Progress**: Working with Haslib in Python to generate and validate keys.
 
 **Thoughts:** Seems a little familiar to NPM package I used before so I understand the concept. Just need to figure out I will handle it in Python.
 
-### Day 32: December 11, 2020
+### Day 33: December 11, 2020
 
 **Today's Progress**: More Haslib research.
 
 **Thoughts:** Not finding the right info here. Sort of using the same module but not solving the issue with the function for verification. It can't receive any parameters.
 
-### Day 33: December 12, 2020
+### Day 34: December 12, 2020
 
 **Today's Progress**: Covered more in Python with Haslib.
 
 **Thoughts:** Might have to go different way with validation.
 
-### Day 34: December 13, 2020
+### Day 35: December 13, 2020
 
 **Today's Progress**: Today I'm learning more about Ruby. Soon I'll get into loops and iterators.
 
 **Thoughts:** Learning a little about checking for info in strings and replacing characters.
 
-### Day 35: December 20, 2020
+### Day 36: December 20, 2020
 
 **Today's Progress**: Make up day for missed day. Working in Ruby to learn more.
 
 **Thoughts:** Working with loops is slightly similar to Python.
 
-### Day 36: December 21, 2020
+### Day 37: December 21, 2020
 
 **Today's Progress**: Working on protecting passwords in Ruby. At least a naive implementation without using hashing. 
 
@@ -285,3 +285,9 @@ Today, I am taking on the Go programming language. I've studied quite a bit and 
 **Thoughts:** Somewhat different to what I've seen but am thankful for the variety of info and documentation online. I feel like it will be a challenge.
 
 **Link to work:** [Hello World](https://github.com/marcornett/hello-go-world)
+
+### Day 41: January 31, 2021
+
+**Today's Progress**: Worked on an assignment that finds the Hamming Distance, the amount of mistakes occurring in two strands of DNA. 
+
+**Thoughts:** So far not to bad. Similar syntax to JavaScript in my opinion. The logic seems simple enough. Some syntax issues that I need to research before pushing up.
