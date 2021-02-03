@@ -291,3 +291,13 @@ Today, I am taking on the Go programming language. I've studied quite a bit and 
 **Today's Progress**: Worked on an assignment that finds the Hamming Distance, the amount of mistakes occurring in two strands of DNA. 
 
 **Thoughts:** So far not to bad. Similar syntax to JavaScript in my opinion. The logic seems simple enough. Some syntax issues that I need to research before pushing up.
+
+
+### Day 41: January 31, 2021
+
+**Today's Progress**: Completed Hamming Distance project.
+
+**Thoughts:** Return statement for my function needed receive two arguments which seemed weird. One of the value and another of an error. The only reasoning I could find was that it had two return statements in the function so it needed the error handling. 
+
+
+**Link to work:** [Hamming](https://github.com/marcornett/hamming)
